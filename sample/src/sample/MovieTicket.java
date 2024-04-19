@@ -1,6 +1,6 @@
 package sample;
 // thido hphodrty
-//gdrytyrtu
+
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
